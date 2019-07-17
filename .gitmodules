@@ -58,3 +58,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = git@github.com:tpope/vim-unimpaired.git
+[submodule "nginx.vim"]
+	path = nginx.vim
+	url = https://github.com/chr4/nginx.vim
