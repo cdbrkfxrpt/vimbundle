@@ -64,3 +64,6 @@
 [submodule "vim-toml"]
 	path = vim-toml
 	url = git@github.com:cespare/vim-toml.git
+[submodule "vim-cargo"]
+	path = vim-cargo
+	url = git@github.com:timonv/vim-cargo.git
