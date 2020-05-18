@@ -1,9 +1,6 @@
 [submodule "YCM-Generator"]
 	path = YCM-Generator
 	url = git@github.com:rdnetto/YCM-Generator.git
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = git@github.com:Valloric/YouCompleteMe.git
 [submodule "ale"]
 	path = ale
 	url = git@github.com:w0rp/ale.git
