@@ -61,3 +61,6 @@
 [submodule "vim-toml"]
 	path = vim-toml
 	url = git@github.com:cespare/vim-toml.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
