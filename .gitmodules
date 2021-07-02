@@ -64,3 +64,6 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "vim-cargo"]
+	path = vim-cargo
+	url = https://github.com/timonv/vim-cargo.git
