@@ -1,6 +1,3 @@
-[submodule "YCM-Generator"]
-	path = YCM-Generator
-	url = git@github.com:rdnetto/YCM-Generator.git
 [submodule "ale"]
 	path = ale
 	url = git@github.com:w0rp/ale.git
@@ -61,6 +58,6 @@
 [submodule "vim-toml"]
 	path = vim-toml
 	url = git@github.com:cespare/vim-toml.git
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = git@github.com:neoclide/coc.nvim.git
