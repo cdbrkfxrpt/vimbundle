@@ -61,3 +61,6 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
 	url = git@github.com:neoclide/coc.nvim.git
+[submodule "context.vim"]
+	path = context.vim
+	url = git@github.com:wellle/context.vim.git
