@@ -64,3 +64,6 @@
 [submodule "context.vim"]
 	path = context.vim
 	url = git@github.com:wellle/context.vim.git
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = git@github.com:hashivim/vim-terraform.git
