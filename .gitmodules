@@ -67,3 +67,6 @@
 [submodule "vim-terraform"]
 	path = vim-terraform
 	url = git@github.com:hashivim/vim-terraform.git
+[submodule "vim-instant-markdown"]
+	path = vim-instant-markdown
+	url = git@github.com:instant-markdown/vim-instant-markdown.git
