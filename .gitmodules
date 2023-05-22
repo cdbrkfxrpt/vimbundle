@@ -16,9 +16,6 @@
 [submodule "tagbar"]
 	path = tagbar
 	url = git@github.com:majutsushi/tagbar.git
-[submodule "typescript-vim"]
-	path = typescript-vim
-	url = git@github.com:leafgarland/typescript-vim.git
 [submodule "ultisnips"]
 	path = ultisnips
 	url = git@github.com:SirVer/ultisnips.git
@@ -31,9 +28,6 @@
 [submodule "vim-better-whitespace"]
 	path = vim-better-whitespace
 	url = git@github.com:ntpeters/vim-better-whitespace.git
-[submodule "vim-cmake-syntax"]
-	path = vim-cmake-syntax
-	url = git@github.com:nickhutchinson/vim-cmake-syntax.git
 [submodule "vim-commentary"]
 	path = vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
